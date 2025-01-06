@@ -16,7 +16,7 @@ This project aims to emulate the management of library resources and enhance use
 - **Managing Borrowed Books**: Users can view, borrow, and return books, helping them keep track of their library activity.
 
 ## Installation
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/mue864/library-cli.git`
 2. Navigate to the project directory: `cd Library`
 3. Compile the Java files: `javac *.java`
 4. Run the application: `java Main`
